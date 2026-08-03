@@ -1,0 +1,40 @@
+@font-face {
+    font-family: regnas;
+    src: url("/fonts/Mending.otf");
+}
+
+
+body {
+    background-color: #dad7cd;
+}
+
+.acme-regular {
+  font-family: "Acme", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+h1 {
+    margin: 20px auto;
+    font-size: 60px; 
+    color: #22223b;
+    margin-top: 50px;
+    text-align: center;
+    font-family: regnas, sans-serif;
+}
+
+h3 {
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 20px;
+    text-align: left; 
+    color: #22223b;
+    background: #d4a373;
+    padding: 10px;
+}
+
+
+
+
+
